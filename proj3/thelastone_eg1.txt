@@ -1,0 +1,261 @@
+Hostname: Ipi
+Port: 33144
+New connection from ('152.7.73.164', 53944)
+Vincent is now the Game Master
+('152.7.73.164', 53944) has name Vincent
+Server: Vincent is now the Game Master
+Server: Vincent has connected
+Server: No other players
+New connection from ('152.7.73.164', 53947)
+('152.7.73.164', 53947) has name David
+Server: David has connected
+Server: Current players are: Vincent
+5 of Spades, 7 of Spades, 8 of Diamonds, 6 of Hearts, 4 of Hearts, K of Clubs
+2 of Clubs, 8 of Spades, 2 of Diamonds, Q of Diamonds, 6 of Spades, J of Spades
+The top card is: A of Diamonds
+Starting Last One.
+Invalid Suit
+You have played: 8 of Diamonds
+Vincent has played: 8 of Diamonds
+It is David's turn.
+It is your turn.
+Your hand is: 2 of Clubs, 8 of Spades, 2 of Diamonds, Q of Diamonds, 6 of Spades, J of Spades
+You have played: 8 of Spades
+David has played: 8 of Spades
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, K of Clubs
+You drew: 2 of Spades
+Vincent drew 1 cards
+It is David's turn.
+It is your turn.
+Your hand is: 2 of Clubs, 2 of Diamonds, Q of Diamonds, 6 of Spades, J of Spades
+You have played: 2 of Diamonds
+David has played: 2 of Diamonds
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, K of Clubs, 2 of Spades
+You drew: 9 of Diamonds, 10 of Hearts
+Vincent drew 2 cards
+It is David's turn.
+It is your turn.
+Your hand is: 2 of Clubs, Q of Diamonds, 6 of Spades, J of Spades
+You have played: 2 of Clubs
+David has played: 2 of Clubs
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, K of Clubs, 2 of Spades, 9 of Diamonds, 10 of Hearts
+You drew: 4 of Clubs, 4 of Diamonds
+Vincent drew 2 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades
+You drew: 7 of Diamonds
+David drew 1 cards
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, K of Clubs, 2 of Spades, 9 of Diamonds, 10 of Hearts, 4 of Clubs, 4 of Diamonds
+You have played: 4 of Clubs
+Vincent has played: 4 of Clubs
+Melee has started.
+Aggressor is: Vincent
+Aggressee is: David
+Q of Diamonds, 6 of Spades, J of Spades, 7 of Diamonds
+Melee has ended.
+You drew: 6 of Clubs, 3 of Spades, K of Diamonds, J of Hearts
+David drew 4 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades, 7 of Diamonds, 6 of Clubs, 3 of Spades, K of Diamonds, J of Hearts
+You have played: 6 of Clubs
+David has played: 6 of Clubs
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, K of Clubs, 2 of Spades, 9 of Diamonds, 10 of Hearts, 4 of Diamonds
+You have played: K of Clubs
+Vincent has played: K of Clubs
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades, 7 of Diamonds, 3 of Spades, K of Diamonds, J of Hearts
+You have played: K of Diamonds
+David has played: K of Diamonds
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, 2 of Spades, 9 of Diamonds, 10 of Hearts, 4 of Diamonds
+You have played: 4 of Diamonds
+Vincent has played: 4 of Diamonds
+Melee has started.
+Aggressor is: Vincent
+Aggressee is: David
+Q of Diamonds, 6 of Spades, J of Spades, 7 of Diamonds, 3 of Spades, J of Hearts
+Melee has ended.
+You drew: 9 of Hearts, 10 of Spades, 10 of Diamonds, K of Spades
+David drew 4 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades, 7 of Diamonds, 3 of Spades, J of Hearts, 9 of Hearts, 10 of Spades, 10 of Diamonds, K of Spades
+You have played: 7 of Diamonds
+David has played: 7 of Diamonds
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 7 of Spades, 6 of Hearts, 4 of Hearts, 2 of Spades, 9 of Diamonds, 10 of Hearts
+You have played: 7 of Spades
+Vincent has played: 7 of Spades
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades, 3 of Spades, J of Hearts, 9 of Hearts, 10 of Spades, 10 of Diamonds, K of Spades
+You have played: K of Spades
+David has played: K of Spades
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 6 of Hearts, 4 of Hearts, 2 of Spades, 9 of Diamonds, 10 of Hearts
+You have played: 2 of Spades
+Vincent has played: 2 of Spades
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades, 3 of Spades, J of Hearts, 9 of Hearts, 10 of Spades, 10 of Diamonds
+You drew: 10 of Clubs, 8 of Hearts
+David drew 2 cards
+It is Vincent's turn.
+It is your turn.
+Your hand is: 5 of Spades, 6 of Hearts, 4 of Hearts, 9 of Diamonds, 10 of Hearts
+You have played: 5 of Spades
+Vincent has played: 5 of Spades
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, J of Spades, 3 of Spades, J of Hearts, 9 of Hearts, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts
+You have played: J of Spades
+David has played: J of Spades
+It is Vincent's turn.
+It is your turn.
+Your hand is: 6 of Hearts, 4 of Hearts, 9 of Diamonds, 10 of Hearts
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, J of Hearts, 9 of Hearts, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts
+You have played: J of Hearts
+David has played: J of Hearts
+It is Vincent's turn.
+It is your turn.
+Your hand is: 6 of Hearts, 4 of Hearts, 9 of Diamonds, 10 of Hearts
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 9 of Hearts, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts
+You have played: 9 of Hearts
+David has played: 9 of Hearts
+It is Vincent's turn.
+It is your turn.
+Your hand is: 6 of Hearts, 4 of Hearts, 9 of Diamonds, 10 of Hearts
+You have played: 4 of Hearts
+Vincent has played: 4 of Hearts
+Melee has started.
+Aggressor is: Vincent
+Aggressee is: David
+Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts
+Melee has ended.
+You drew: 9 of Spades, 2 of Hearts, Q of Clubs, A of Hearts
+David drew 4 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts, 9 of Spades, 2 of Hearts, Q of Clubs, A of Hearts
+You have played: 2 of Hearts
+David has played: 2 of Hearts
+It is Vincent's turn.
+It is your turn.
+Your hand is: 6 of Hearts, 9 of Diamonds, 10 of Hearts
+You drew: 3 of Diamonds, J of Diamonds
+Vincent drew 2 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts, 9 of Spades, Q of Clubs, A of Hearts
+You have played: A of Hearts
+David has played: A of Hearts
+It is Vincent's turn.
+It is your turn.
+Your hand is: 6 of Hearts, 9 of Diamonds, 10 of Hearts, 3 of Diamonds, J of Diamonds
+You have played: 6 of Hearts
+Vincent has played: 6 of Hearts
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Diamonds, 10 of Clubs, 8 of Hearts, 9 of Spades, Q of Clubs
+Invalid Suit
+You have played: 8 of Hearts
+David has played: 8 of Hearts
+It is Vincent's turn.
+It is your turn.
+Your hand is: 9 of Diamonds, 10 of Hearts, 3 of Diamonds, J of Diamonds
+You drew: 9 of Clubs
+Vincent drew 1 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Diamonds, 10 of Clubs, 9 of Spades, Q of Clubs
+You have played: 9 of Spades
+David has played: 9 of Spades
+It is Vincent's turn.
+It is your turn.
+Your hand is: 9 of Diamonds, 10 of Hearts, 3 of Diamonds, J of Diamonds, 9 of Clubs
+You have played: 9 of Diamonds
+Vincent has played: 9 of Diamonds
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Diamonds, 10 of Clubs, Q of Clubs
+You have played: 10 of Diamonds
+David has played: 10 of Diamonds
+It is Vincent's turn.
+It is your turn.
+Your hand is: 10 of Hearts, 3 of Diamonds, J of Diamonds, 9 of Clubs
+You have played: 10 of Hearts
+Vincent has played: 10 of Hearts
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Spades, 10 of Clubs, Q of Clubs
+You have played: 10 of Spades
+David has played: 10 of Spades
+It is Vincent's turn.
+It is your turn.
+Your hand is: 3 of Diamonds, J of Diamonds, 9 of Clubs
+You drew: Joker
+Vincent drew 1 cards
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 6 of Spades, 3 of Spades, 10 of Clubs, Q of Clubs
+You have played: 3 of Spades
+David has played: 3 of Spades
+You have played: 6 of Spades
+David has played: 6 of Spades
+It is Vincent's turn.
+It is your turn.
+Your hand is: 3 of Diamonds, J of Diamonds, 9 of Clubs, Joker
+You have played: Joker as 6 of Diamonds
+Vincent has played: Joker as 6 of Diamonds
+It is David's turn.
+It is your turn.
+Your hand is: Q of Diamonds, 10 of Clubs, Q of Clubs
+You have played: Q of Diamonds
+David has played: Q of Diamonds
+It is Vincent's turn.
+It is your turn.
+Your hand is: 3 of Diamonds, J of Diamonds, 9 of Clubs
+You have played: J of Diamonds
+Vincent has played: J of Diamonds
+It is David's turn.
+It is your turn.
+Your hand is: 10 of Clubs, Q of Clubs
+It is Vincent's turn.
+It is your turn.
+Your hand is: 3 of Diamonds, 9 of Clubs
+You have played: 3 of Diamonds
+Vincent has played: 3 of Diamonds
+You have played: 9 of Clubs
+Vincent has played: 9 of Clubs
+It is David's turn.
+It is your turn.
+Your hand is: 10 of Clubs, Q of Clubs
+Vincent has won the game!
+('152.7.73.164', 53944) (Vincent) has disconnected
+Game Master is no longer set
+David is now the Game Master
+Server: Vincent has disconnected
+Server: David is now the Game Master
+('152.7.73.164', 53947) (David) has disconnected
+Game Master is no longer set
+Server: David has disconnected

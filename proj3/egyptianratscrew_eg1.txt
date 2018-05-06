@@ -1,0 +1,232 @@
+Hostname: Ipi
+Port: 33144
+New connection from ('152.7.73.164', 54390)
+Vincent is now the Game Master
+('152.7.73.164', 54390) has name Vincent
+Server: Vincent is now the Game Master
+Server: Vincent has connected
+Server: No other players
+New connection from ('10.137.49.220', 41826)
+('10.137.49.220', 41826) has name David
+Server: David has connected
+Server: Current players are: Vincent
+Starting Egyptian Rat Screw.
+You have played: 6 of Spades
+Vincent has played: 6 of Spades
+It is David's turn.
+It is your turn.
+You have played: A of Hearts
+David has played: A of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: 7 of Spades
+Vincent has played: 7 of Spades
+It is David's turn.
+It is your turn.
+You have played: K of Spades
+David has played: K of Spades
+It is Vincent's turn.
+It is your turn.
+You have played: 8 of Clubs
+Vincent has played: 8 of Clubs
+It is David's turn.
+It is your turn.
+You have played: 2 of Diamonds
+David has played: 2 of Diamonds
+It is Vincent's turn.
+It is your turn.
+You have played: 10 of Diamonds
+Vincent has played: 10 of Diamonds
+It is David's turn.
+It is your turn.
+You have played: 5 of Spades
+David has played: 5 of Spades
+It is Vincent's turn.
+It is your turn.
+You have played: 4 of Clubs
+Vincent has played: 4 of Clubs
+It is David's turn.
+It is your turn.
+You have played: A of Spades
+David has played: A of Spades
+It is Vincent's turn.
+It is your turn.
+You have played: 7 of Hearts
+Vincent has played: 7 of Hearts
+It is David's turn.
+It is your turn.
+You have played: 6 of Diamonds
+David has played: 6 of Diamonds
+It is Vincent's turn.
+It is your turn.
+You have played: 6 of Clubs
+Vincent has played: 6 of Clubs
+It is David's turn.
+It is your turn.
+Vincent has claimed the pile!
+You have played: 9 of Clubs
+David has played: 9 of Clubs
+It is Vincent's turn.
+It is your turn.
+You have played: K of Clubs
+Vincent has played: K of Clubs
+It is David's turn.
+It is your turn.
+You have played: 2 of Spades
+David has played: 2 of Spades
+It is Vincent's turn.
+It is your turn.
+You have played: Q of Hearts
+Vincent has played: Q of Hearts
+It is David's turn.
+It is your turn.
+You have played: 5 of Hearts
+David has played: 5 of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: A of Diamonds
+Vincent has played: A of Diamonds
+It is David's turn.
+It is your turn.
+You have played: 7 of Diamonds
+David has played: 7 of Diamonds
+It is Vincent's turn.
+It is your turn.
+You have played: A of Spades
+Vincent has played: A of Spades
+It is David's turn.
+It is your turn.
+Vincent has claimed the pile!
+You have played: A of Clubs
+David has played: A of Clubs
+It is Vincent's turn.
+It is your turn.
+You have played: 7 of Spades
+Vincent has played: 7 of Spades
+It is David's turn.
+It is your turn.
+You have played: 4 of Spades
+David has played: 4 of Spades
+It is Vincent's turn.
+It is your turn.
+You have played: 8 of Spades
+Vincent has played: 8 of Spades
+It is David's turn.
+It is your turn.
+You have played: 10 of Clubs
+David has played: 10 of Clubs
+It is Vincent's turn.
+It is your turn.
+You have played: J of Clubs
+Vincent has played: J of Clubs
+It is David's turn.
+It is your turn.
+You have played: 5 of Diamonds
+David has played: 5 of Diamonds
+It is Vincent's turn.
+It is your turn.
+You have played: 7 of Diamonds
+Vincent has played: 7 of Diamonds
+It is David's turn.
+It is your turn.
+You have played: 5 of Clubs
+David has played: 5 of Clubs
+It is Vincent's turn.
+It is your turn.
+Vincent has claimed the pile!
+You have played: 5 of Hearts
+Vincent has played: 5 of Hearts
+It is David's turn.
+It is your turn.
+You have played: 9 of Diamonds
+David has played: 9 of Diamonds
+It is Vincent's turn.
+It is your turn.
+You have played: J of Clubs
+Vincent has played: J of Clubs
+It is David's turn.
+It is your turn.
+You have played: J of Spades
+David has played: J of Spades
+It is Vincent's turn.
+It is your turn.
+Vincent has claimed the pile!
+You have played: 5 of Hearts
+Vincent has played: 5 of Hearts
+It is David's turn.
+It is your turn.
+You have played: 9 of Hearts
+David has played: 9 of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: 7 of Diamonds
+Vincent has played: 7 of Diamonds
+It is David's turn.
+It is your turn.
+You have played: 7 of Clubs
+David has played: 7 of Clubs
+It is Vincent's turn.
+It is your turn.
+Vincent has claimed the pile!
+You have played: 5 of Spades
+Vincent has played: 5 of Spades
+It is David's turn.
+It is your turn.
+You have played: 3 of Clubs
+David has played: 3 of Clubs
+It is Vincent's turn.
+It is your turn.
+You have played: 10 of Diamonds
+Vincent has played: 10 of Diamonds
+It is David's turn.
+It is your turn.
+You have played: J of Hearts
+David has played: J of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: A of Hearts
+Vincent has played: A of Hearts
+It is David's turn.
+It is your turn.
+You have played: K of Hearts
+David has played: K of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: 7 of Hearts
+Vincent has played: 7 of Hearts
+It is David's turn.
+It is your turn.
+You have played: 6 of Hearts
+David has played: 6 of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: 8 of Spades
+Vincent has played: 8 of Spades
+It is David's turn.
+It is your turn.
+You have played: 2 of Hearts
+David has played: 2 of Hearts
+It is Vincent's turn.
+It is your turn.
+You have played: 6 of Diamonds
+Vincent has played: 6 of Diamonds
+It is David's turn.
+It is your turn.
+You have played: Q of Clubs
+David has played: Q of Clubs
+It is Vincent's turn.
+It is your turn.
+You have played: K of Clubs
+Vincent has played: K of Clubs
+It is David's turn.
+It is your turn.
+You have played: 8 of Diamonds
+David has played: 8 of Diamonds
+It is Vincent's turn.
+It is your turn.
+You have played: K of Spades
+Vincent has played: K of Spades
+It is David's turn.
+It is your turn.
+Vincent has claimed the pile!
+Game is a Draw.
