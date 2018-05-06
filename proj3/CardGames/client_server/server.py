@@ -6,6 +6,7 @@ sys.path.insert(1,'..')
 import utils.queue
 from games.egyptianratscrew import EgyptianRatScrew
 from games.thelastone import TheLastOne
+from games.sequence import Sequence
 
 ADMIN = 'Server'
 MIN_NAME_LENGTH = 2
@@ -16,6 +17,7 @@ CMDHALT = CMDLEADER + 'HALT'
 
 ERSNAME = ['ERS', 'EGYPTIANRATSCREW']
 LASTONENAME = ['LO', 'LASTONE']
+SEQUENCENAME = ['SQNC', 'SEQUENCE']
 
 listener = None
 clientGetter = None
@@ -125,6 +127,12 @@ def handleGMCmdMsg(msg, msgArgs):
             listener.close()
             game = TheLastOne([c.playerName for c in clientThreads], gameQueue, responseQueue)
             responseQueue.enqueue(([c.playerName for c in clientThreads], 'Starting Last One.'))
+            gameThread = threading.Thread(target=game.run)
+            gameThread.start()
+        elif msgArgs[1].upper() in SEQUENCENAME:
+            listener.close()
+            game = Sequence([c.playerName for c in clientThreads], gameQueue, responseQueue)
+            responseQueue.enqueue(([c.playerName for c in clientThreads], 'Starting Sequence.'))
             gameThread = threading.Thread(target=game.run)
             gameThread.start()
     elif msgArgs[0].upper() == CMDHALT:

@@ -4,8 +4,6 @@ from persistent.pile import Pile
 from persistent.card import Card
 import time
 
-"""This defines the game class """
-
 class Game:
     def __init__(self, gameName, players, inQueue, outQueue, *, jokers=False, timeLastCard=False, mysteryHand=False):
         self.name, self.currentTurn = gameName, 0
