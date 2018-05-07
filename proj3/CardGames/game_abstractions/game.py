@@ -145,7 +145,7 @@ class Game:
             rankIndex = self.ranks.index(rank)
             rankIndex += 1
             if rankIndex >= len(self.ranks):
-                rankIndex -= self.ranks
+                rankIndex -= len(self.ranks)
             return self.ranks[rankIndex]
         return None
 

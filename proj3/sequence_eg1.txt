@@ -1,0 +1,126 @@
+Hostname: Ipi
+Port: 33144
+New connection from ('152.7.73.164', 52226)
+Vincent is now the Game Master
+('152.7.73.164', 52226) has name Vincent
+Server: Vincent is now the Game Master
+Server: Vincent has connected
+Server: No other players
+New connection from ('152.7.73.164', 52227)
+('152.7.73.164', 52227) has name Alec
+Server: Alec has connected
+Server: Current players are: Vincent
+New connection from ('152.7.73.164', 52228)
+('152.7.73.164', 52228) has name David
+Server: David has connected
+Server: Current players are: Vincent, Alec
+10 of Clubs, 4 of Spades, K of Hearts, Q of Clubs, 10 of Spades, A of Spades, 7 of Hearts, J of Hearts, K of Clubs, 5 of Diamonds, 7 of Diamonds, 4 of Diamonds, 6 of Diamonds, 5 of Spades, 7 of Spades, 6 of Hearts, Q of Diamonds, J of Diamonds
+9 of Diamonds, Q of Hearts, 10 of Diamonds, K of Diamonds, A of Hearts, 9 of Clubs, 4 of Hearts, J of Clubs, Q of Spades, 6 of Clubs, 8 of Spades, 8 of Clubs, 9 of Spades, 2 of Hearts, 8 of Hearts, A of Clubs, 7 of Clubs
+2 of Diamonds, 2 of Spades, 10 of Hearts, A of Diamonds, 5 of Clubs, K of Spades, 3 of Clubs, 5 of Hearts, 9 of Hearts, 8 of Diamonds, J of Spades, 3 of Spades, 2 of Clubs, 6 of Spades, 3 of Hearts, 4 of Clubs, 3 of Diamonds
+It is Alec's turn to play.
+It is your turn. Play your lowest card of any suit.
+Starting Sequence.
+You have played: 6 of Clubs
+Alec has played: 6 of Clubs
+You have played: 7 of Clubs
+Alec has played: 7 of Clubs
+You have played: 8 of Clubs
+Alec has played: 8 of Clubs
+You have played: 9 of Clubs
+Alec has played: 9 of Clubs
+You have played: 10 of Clubs
+Vincent has played: 10 of Clubs
+You have played: J of Clubs
+Alec has played: J of Clubs
+9 of Diamonds, Q of Hearts, 10 of Diamonds, K of Diamonds, A of Hearts, 4 of Hearts, Q of Spades, 8 of Spades, 9 of Spades, 2 of Hearts, 8 of Hearts, A of Clubs
+You have played: Q of Clubs
+Vincent has played: Q of Clubs
+You have played: K of Clubs
+Vincent has played: K of Clubs
+You have played: A of Clubs
+Alec has played: A of Clubs
+Play your lowest card of any suit.
+9 of Diamonds, Q of Hearts, 10 of Diamonds, K of Diamonds, A of Hearts, 4 of Hearts, Q of Spades, 8 of Spades, 9 of Spades, 2 of Hearts, 8 of Hearts
+You have played: 2 of Hearts
+Alec has played: 2 of Hearts
+You have played: 3 of Hearts
+David has played: 3 of Hearts
+You have played: 4 of Hearts
+Alec has played: 4 of Hearts
+You have played: 5 of Hearts
+David has played: 5 of Hearts
+4 of Spades, K of Hearts, 10 of Spades, A of Spades, 7 of Hearts, J of Hearts, 5 of Diamonds, 7 of Diamonds, 4 of Diamonds, 6 of Diamonds, 5 of Spades, 7 of Spades, 6 of Hearts, Q of Diamonds, J of Diamonds
+9 of Diamonds, Q of Hearts, 10 of Diamonds, K of Diamonds, A of Hearts, Q of Spades, 8 of Spades, 9 of Spades, 8 of Hearts
+2 of Diamonds, 2 of Spades, 10 of Hearts, A of Diamonds, 5 of Clubs, K of Spades, 3 of Clubs, 9 of Hearts, 8 of Diamonds, J of Spades, 3 of Spades, 2 of Clubs, 6 of Spades, 4 of Clubs, 3 of Diamonds
+You have played: 6 of Hearts
+Vincent has played: 6 of Hearts
+Alec: 9, David: 15
+Vincent: 14, Alec: 9
+You have played: 7 of Hearts
+Vincent has played: 7 of Hearts
+You have played: 8 of Hearts
+Alec has played: 8 of Hearts
+You have played: 9 of Hearts
+David has played: 9 of Hearts
+You have played: 10 of Hearts
+David has played: 10 of Hearts
+You have played: J of Hearts
+Vincent has played: J of Hearts
+You have played: Q of Hearts
+Alec has played: Q of Hearts
+Vincent: 12, David: 13
+9 of Diamonds, 10 of Diamonds, K of Diamonds, A of Hearts, Q of Spades, 8 of Spades, 9 of Spades
+4 of Spades, K of Hearts, 10 of Spades, A of Spades, 5 of Diamonds, 7 of Diamonds, 4 of Diamonds, 6 of Diamonds, 5 of Spades, 7 of Spades, Q of Diamonds, J of Diamonds
+2 of Diamonds, 2 of Spades, A of Diamonds, 5 of Clubs, K of Spades, 3 of Clubs, 8 of Diamonds, J of Spades, 3 of Spades, 2 of Clubs, 6 of Spades, 4 of Clubs, 3 of Diamonds
+You have played: K of Hearts
+Vincent has played: K of Hearts
+You have played: A of Hearts
+Alec has played: A of Hearts
+Play your lowest card of any suit.
+9 of Diamonds, 10 of Diamonds, K of Diamonds, Q of Spades, 8 of Spades, 9 of Spades
+You have played: 8 of Spades
+Alec has played: 8 of Spades
+9 of Diamonds, 10 of Diamonds, K of Diamonds, Q of Spades, 9 of Spades
+You have played: 9 of Spades
+Alec has played: 9 of Spades
+9 of Diamonds, 10 of Diamonds, K of Diamonds, Q of Spades
+2 of Diamonds, 2 of Spades, A of Diamonds, 5 of Clubs, K of Spades, 3 of Clubs, 8 of Diamonds, J of Spades, 3 of Spades, 2 of Clubs, 6 of Spades, 4 of Clubs, 3 of Diamonds
+4 of Spades, 10 of Spades, A of Spades, 5 of Diamonds, 7 of Diamonds, 4 of Diamonds, 6 of Diamonds, 5 of Spades, 7 of Spades, Q of Diamonds, J of Diamonds
+You have played: 10 of Spades
+Vincent has played: 10 of Spades
+You have played: J of Spades
+David has played: J of Spades
+You have played: Q of Spades
+Alec has played: Q of Spades
+You have played: K of Spades
+David has played: K of Spades
+You have played: A of Spades
+Vincent has played: A of Spades
+Play your lowest card of any suit.
+9 of Diamonds, 10 of Diamonds, K of Diamonds
+2 of Diamonds, 2 of Spades, A of Diamonds, 5 of Clubs, 3 of Clubs, 8 of Diamonds, 3 of Spades, 2 of Clubs, 6 of Spades, 4 of Clubs, 3 of Diamonds
+4 of Spades, 5 of Diamonds, 7 of Diamonds, 4 of Diamonds, 6 of Diamonds, 5 of Spades, 7 of Spades, Q of Diamonds, J of Diamonds
+You have played: 4 of Diamonds
+Vincent has played: 4 of Diamonds
+You have played: 5 of Diamonds
+Vincent has played: 5 of Diamonds
+4 of Spades, 7 of Diamonds, 6 of Diamonds, 5 of Spades, 7 of Spades, Q of Diamonds, J of Diamonds
+9 of Diamonds, 10 of Diamonds, K of Diamonds
+2 of Diamonds, 2 of Spades, A of Diamonds, 5 of Clubs, 3 of Clubs, 8 of Diamonds, 3 of Spades, 2 of Clubs, 6 of Spades, 4 of Clubs, 3 of Diamonds
+You have played: 6 of Diamonds
+Vincent has played: 6 of Diamonds
+You have played: 7 of Diamonds
+Vincent has played: 7 of Diamonds
+You have played: 8 of Diamonds
+David has played: 8 of Diamonds
+You have played: 9 of Diamonds
+Alec has played: 9 of Diamonds
+You have played: 10 of Diamonds
+Alec has played: 10 of Diamonds
+You have played: J of Diamonds
+Vincent has played: J of Diamonds
+You have played: Q of Diamonds
+Vincent has played: Q of Diamonds
+You have played: K of Diamonds
+Alec has played: K of Diamonds
+Alec has won the game!

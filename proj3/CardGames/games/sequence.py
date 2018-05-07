@@ -2,7 +2,7 @@ from game_abstractions.game import Game
 from game_abstractions.rules import *
 from persistent.deck import Deck
 from persistent.hand import Hand
-from persisent.card import Card
+from persistent.card import Card
 
 
 class Sequence(Game):
@@ -21,8 +21,7 @@ class Sequence(Game):
         for p in self.players:
             self.sendMessage(self.thisPlayer(p), p.viewHand())
         self.sendMessage(self.otherPlayers(self.playedAce), 'It is ' + str(self.playedAce) + "'s turn to play.")
-        self.sendMessage(self.thisPlayer(self.playedAce), 'It is your turn. Play your lowest card of
-        any suit.')
+        self.sendMessage(self.thisPlayer(self.playedAce), 'It is your turn. Play your lowest card of any suit.')
 
     def deal(self):
         for p in self.players:
@@ -55,7 +54,7 @@ class Sequence(Game):
     def canSpecialPlay(self, player, card):
         if self.playedAce and player == self.playedAce:
             for c in player.getCardsInHand():
-                if c.getSuit == card.getSuit and self.lowerRank(c.getRank(), card.getRank()):
+                if c.getSuit == card.getSuit and self.lowerRank(c, card):
                     return False
             return True
 
@@ -69,23 +68,24 @@ class Sequence(Game):
     def normalPlayRule(self, player, card):
         if self.canNormalPlay(card):
             self.playCard(player, card, card)
+            return True
 
     def startSuitRule(self, player, card):
         if self.canSpecialPlay(player, card):
             self.playCard(player, card, card)
             if not card.getRank == 'A':
                 self.playedAce = None
+            return True
 
     def play(self, msg, player):
-        if player == self.getCurrentPlayer():
-            if firstWord(msg) == 'PLAY':
-                card, subCard, numTokens = self.extractCard(msg, player, 1)
-                if not numTokens:
-                    self.sendMessage(self.thisPlayer(player), 'Invalid Card')
+        if firstWord(msg) == 'PLAY':
+            card, subCard, numTokens = self.extractCard(msg, player, 1)
+            if not numTokens:
+                self.sendMessage(self.thisPlayer(player), 'Invalid Card')
+                return
+            for r in self.playRules:
+                if r(player, card):
                     return
-                for r in self.playRules:
-                    if r(msg, player, card, subCard, numTokens):
-                        return
 
     def addPlayRule(self, rule):
         self.playRules.append(rule)
